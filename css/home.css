@@ -1,0 +1,92 @@
+.content-home {
+    height: auto;
+    text-align: center;
+}
+
+hr.watwijdoen {
+    border-top: 1px solid black;
+    width: 300px;
+}
+
+h2.intro,
+h2.intro p {
+    font-family: myFirstFont;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #ED6C33;
+    text-align: center;
+}
+
+#onderzoek,
+#presenatie {
+    margin-bottom: 60px;
+}
+
+.homeText {
+    font-size: 18px;
+}
+
+img.icons {
+    padding-top: 40px;
+    visibility: hidden;
+}
+
+ul.contact {
+    color: #ED6C33;
+    list-style-type: none;
+    font-family: PlatteTekst;
+    margin: 0;
+    padding: 0;
+}
+
+
+/* ----- Aanmeldformulier ----- */
+
+.btn-info {
+    background-color: #ED6C33;
+    border-color: #ED6C33;
+    font-family: PlatteTekst;
+}
+
+.btn-info:hover {
+    background-color: #d5612d;
+    border-color: #d5612d;
+}
+
+.btn-info:active {
+    background-color: #d5612d;
+    border-color: #d5612d;
+}
+
+input.form-control {
+    margin-top: 20px;
+}
+
+.btn-default {
+    background-color: #ED6C33;
+    font-family: PlatteTekst;
+    color: white;
+}
+
+.btn-default:hover {
+    background-color: #d5612d;
+    font-family: PlatteTekst;
+    color: white;
+}
+
+button.btn.btn-default {
+    margin-top: 20px;
+    width: 150px;
+    height: 40px;
+}
+
+input.form-control {
+    font-family: PlatteTekst;
+}
+
+h4.modal-title {
+    font-family: PlatteTekst;
+}
+
+
+/* ------ Einde aanmeldformulier ------ */
